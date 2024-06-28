@@ -117,7 +117,7 @@ body{
 
 #data td, #data th {
     border: 2px solid black;
-    padding: 0 8px;
+    padding: 8px;
     text-align: center;
 }
 
@@ -129,6 +129,7 @@ body{
     text-align: center;
     background-color: rgb(143, 143, 143);
     color: white;
+  
 }
 
 
