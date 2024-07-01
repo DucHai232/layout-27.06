@@ -205,7 +205,7 @@ body{
 #data {
     font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
-    min-width: 110%;
+    min-width: 100%;
     min-height: 300px;
 }
 
